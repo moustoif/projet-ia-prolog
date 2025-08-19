@@ -1,6 +1,3 @@
-# projet-ia-prolog
-Projet d'enquête policière en Prolog
-
 # Projet IA - Enquête Policière en Prolog
 
 ## Description
